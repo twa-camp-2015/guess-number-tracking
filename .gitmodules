@@ -1,0 +1,33 @@
+[submodule "ShiCaiqiang"]
+	path = ShiCaiqiang
+	url = git@github.com:scq000/guess-number.git
+[submodule "ZhaoShaoyi"]
+	path = ZhaoShaoyi
+	url = git@github.com:simpletrain/guess-number.git
+[submodule "WangFengzhu"]
+	path = WangFengzhu
+	url = git@github.com:carolineF/guess-number.git
+[submodule "WangXiaolong"]
+	path = WangXiaolong
+	url = git@github.com:XiaoLongW/guess-number.git
+[submodule "LiYa"]
+	path = LiYa
+	url = git@github.com:aositelici/guess-number.git
+[submodule "WuXue"]
+	path = WuXue
+	url = git@github.com:zwimeyihmh/guess-number.git
+[submodule "LiYuanyuan"]
+	path = LiYuanyuan
+	url = git@github.com:liyuanyuan57/guess-number.git
+[submodule "LiuDi"]
+	path = LiuDi
+	url = git@github.com:Danaekola/guess-number.git
+[submodule "ZhouYixing"]
+	path = ZhouYixing
+	url = git@github.com:sialvsic/guess-number.git
+[submodule "LiYu"]
+	path = LiYu
+	url = git@github.com:Evan-Leee/guess-number.git
+[submodule "WangYue"]
+	path = WangYue
+	url = git@github.com:WY08271/guess-number.git
